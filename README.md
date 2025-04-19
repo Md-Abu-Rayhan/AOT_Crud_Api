@@ -1,5 +1,3 @@
-I'll create a more concise README.md for your project by removing unnecessary text and the DB/db.bak reference.
-
 ```markdown:e:\Github Repo\Rayhan\AOT\AOTCrudApi\README.md
 AOT CRUD API
 
