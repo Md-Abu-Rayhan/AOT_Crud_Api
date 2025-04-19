@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "knajzSbbfGnPAePMx6ji9Jmxf6LwLQfcQ4EgVddAycA=",
+  "Source": "AOTCrudApi",
+  "BasePath": "_content/AOTCrudApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
