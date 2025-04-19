@@ -1,9 +1,7 @@
 I'll create a more concise README.md for your project by removing unnecessary text and the DB/db.bak reference.
 
 ```markdown:e:\Github Repo\Rayhan\AOT\AOTCrudApi\README.md
-# AOT CRUD API
-
-A high-performance ASP.NET Core API built with Native AOT (Ahead-of-Time) compilation for product management.
+AOT CRUD API
 
 ## Features
 
@@ -87,8 +85,4 @@ Content-Type: application/json
 - **DELETE**: 204 No Content
 - **Error**: 404 Not Found or 400 Bad Request
 
-## Technical Details
 
-- **Native AOT Compilation**: Pre-compiled for performance
-- **JSON Source Generation**: Compile-time serialization
-- **Minimal APIs**: Modern, performant API style
